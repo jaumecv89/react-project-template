@@ -28,6 +28,7 @@ Follow these steps to get your project up and running:
 
 The project structure is designed to provide a clean and organized layout:
 
+```
 react-base-project/
 ├── src/
 │ ├── assets/
@@ -41,8 +42,9 @@ react-base-project/
 ├── .prettierrc.js
 ├── vite.config.js
 ├── package.json
-├── tsconfig.json
+├── tsconfig.jso
 ├── README.md
+```
 
 -   `src`: Holds your application's source code.
 -   `assets`: Holds your application's images and resources.
